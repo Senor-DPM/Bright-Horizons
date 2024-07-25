@@ -1,5 +1,6 @@
 body{
     margin: 0%;
+    background-color: #F2F2F2;
 }
 
 .nav{
@@ -7,7 +8,7 @@ body{
     align-items: center;
     height : 10vh;
     width : 100%;
-    background-color: #FFA07A;
+    background-color: #9DC183;
     margin: 0%;
     padding: 0%;
     padding:40px;
@@ -18,10 +19,21 @@ body{
 }
 
 .nav a{
-    margin-left: 7%;
+    margin-left: 6%;
     padding: 3vh;
     text-decoration:none;
     font-family:arial;
     color:black;
-    font-size: 2.4vh;
+    font-size: 2.6vh;
+    align-items: center;
+}
+
+.nav .text{
+    border:solid;
+    border-color: #8CA47B;
+    border-width:0.5px;
+    background-color: #FF6F61;
+    border-radius:50%;
+    color:	#FFFFFF;
+    padding: 2vh;
 }
