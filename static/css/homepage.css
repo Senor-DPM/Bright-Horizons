@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+}
+
+.nav{
+    display: flex;
+    align-items: center;
+    height : 10vh;
+    width : 100%;
+    background-color: #FFA07A;
+    margin: 0%;
+    padding: 0%;
+    padding:40px;
+}
+
+.nav .logo{
+    height:15vh;
+}
+
+.nav a{
+    margin-left: 7%;
+    padding: 3vh;
+    text-decoration:none;
+    font-family:arial;
+    color:black;
+    font-size: 2.4vh;
+}
